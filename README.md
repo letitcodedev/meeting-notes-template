@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/replit-logo.svg" alt="Replit Logo" width="60" />
+    <img src="assets/replit-logo.png" alt="Replit Logo" width="120" />
   </p>
 
   <h1 align="center">Meeting Notes Template</h1>
