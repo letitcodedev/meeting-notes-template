@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.cache/
+*.tsbuildinfo
+pnpm-lock.yaml
+.local/
+.replit
+.replit-artifact/
