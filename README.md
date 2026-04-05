@@ -1,7 +1,5 @@
 <p align="center">
-    <a href="https://replit.com" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Replit_logo.svg/512px-Replit_logo.svg.png" alt="Replit Logo" width="80" />
-    </a>
+    <img src="assets/replit-logo.svg" alt="Replit Logo" width="60" />
   </p>
 
   <h1 align="center">Meeting Notes Template</h1>
